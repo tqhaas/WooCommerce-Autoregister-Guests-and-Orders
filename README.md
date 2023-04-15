@@ -1,0 +1,1 @@
+# WooCommerce-Autoregister-Guests-and-Orders
